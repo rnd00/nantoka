@@ -19,6 +19,7 @@ Made because:
 - most of it was about loadbalancing in each region (less lag?)
 ### something interesting
 - [play with robots!](https://medium.com/pollen-robotics/in-need-for-some-ai-robotics-exploration-but-no-access-to-a-physical-robot-no-problem-5c2fa47eeece)
+- [reachy](https://github.com/pollen-robotics/reachy)
 ### error logging:
 - [winston](https://www.npmjs.com/package/winston)
 - [morgan](https://github.com/expressjs/morgan)
