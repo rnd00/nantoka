@@ -8,7 +8,7 @@ Made because:
 
 ---
 
-## [6/26]
+## [6/26] Let's play with k8s!
 
 ### thoughts:
 - check internal load balancer
@@ -20,6 +20,9 @@ Made because:
 ### error logging:
 - [winston](https://www.npmjs.com/package/winston)
 - [morgan](https://github.com/expressjs/morgan)
+- [morgan logs to mongodb](https://github.com/expressjs/morgan/pull/44#issuecomment-62309400) *read the snippet*
+- [stream.passThrough](https://stackoverflow.com/questions/19445217/is-there-a-nodejs-passthrough-stream)
+- [mongoose-morgan?](https://www.npmjs.com/package/mongoose-morgan) すでにmongoose使ったらどうする？２つデータベースコネクション立てる？
 ### might help:
 - [k8s, Nodeport / LoadBalancer](https://kubernetes.io/docs/concepts/services-networking/service/#nodeport)
 - [connecting-multiple-k8s-clusters](https://learnk8s.io/bite-sized/connecting-multiple-kubernetes-clusters)
