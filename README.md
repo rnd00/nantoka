@@ -17,6 +17,8 @@ Made because:
 - so there has to be like webhook?
 - *how to make a multi-cluster connections without going through authentication and other めんどくさい stuffs?*
 - most of it was about loadbalancing in each region (less lag?)
+### something interesting
+- [play with robots!](https://medium.com/pollen-robotics/in-need-for-some-ai-robotics-exploration-but-no-access-to-a-physical-robot-no-problem-5c2fa47eeece)
 ### error logging:
 - [winston](https://www.npmjs.com/package/winston)
 - [morgan](https://github.com/expressjs/morgan)
