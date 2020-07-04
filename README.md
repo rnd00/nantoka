@@ -41,6 +41,23 @@ Made because:
 - [standardJS](https://standardjs.com/)
 - [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 - [w/ jwt](https://bezkoder.com/node-js-mongodb-auth-jwt/)
+
+---
+
+## [7/4] Been out a while due to meeeeeeeeeeetings.
+
+### something to check out later at work:
+
+- [let's reduce 'then'](https://javascript.info/async-await)
+- ['typescript' on yt](https://www.youtube.com/results?search_query=typescript)
+
+### i'm having problems writing queries and mutations on graphql
+
+- [graphql queries and mutations](https://graphql.org/learn/queries/)
+- [graphql schema and types](https://graphql.org/learn/schema/)
+- [shopify examples on mutations](https://shopify.dev/concepts/graphql/mutations)
+- [how to mutations](https://www.howtographql.com/graphql-js/3-a-simple-mutation/)
+
 ---
 
 ## calendar!
