@@ -60,6 +60,19 @@ Made because:
 
 ---
 
+## [8/3]
+
+### to read:
+
+- [future of view-page-source](https://dev.to/somedood/the-future-of-view-page-source-18da)
+---
+
+## [8/20]
+
+### to read:
+
+- [dockerising a nextjs project (multistage dockerising)](https://dev.to/chrsgrrtt/dockerising-a-next-js-project-1ck5)
+
 ## calendar!
 
 |月|火|水|木|金|土|日|
